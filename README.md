@@ -4,8 +4,7 @@
 
 <br>
 
-Data Science + Cognitive Science @ UC Berkeley 
-Product @ Dabble Health  
+Data Science + Cognitive Science @ UC Berkeley   
 AI/ML • Data • Tech
 
 </div>
